@@ -1,0 +1,229 @@
+1594624957350	geckodriver	INFO	geckodriver 0.18.0
+1594624957360	geckodriver	INFO	Listening on 127.0.0.1:53728
+1594624960484	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594624963543	Marionette	INFO	Listening on port 53736
+1594624964032	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594624971618	Marionette	INFO	New connections will no longer be accepted
+1594625295533	geckodriver	INFO	geckodriver 0.18.0
+1594625295543	geckodriver	INFO	Listening on 127.0.0.1:53802
+1594625298695	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594625301762	Marionette	INFO	Listening on port 53810
+1594625302240	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594625312497	geckodriver	INFO	geckodriver 0.18.0
+1594625312505	geckodriver	INFO	Listening on 127.0.0.1:53825
+1594625315615	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594625318272	Marionette	INFO	Listening on port 53833
+1594625318652	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+1594625330730	Marionette	INFO	New connections will no longer be accepted
+1594626993981	geckodriver	INFO	geckodriver 0.18.0
+1594626993988	geckodriver	INFO	Listening on 127.0.0.1:54014
+1594626997102	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594626999430	Marionette	INFO	Listening on port 54022
+1594626999671	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+1594627021933	Marionette	INFO	New connections will no longer be accepted
+1594627336057	geckodriver	INFO	geckodriver 0.18.0
+1594627336064	geckodriver	INFO	Listening on 127.0.0.1:54158
+1594627339239	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594627342570	Marionette	INFO	Listening on port 54166
+1594627342814	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+1594627365516	Marionette	INFO	New connections will no longer be accepted
+1594628601641	geckodriver	INFO	geckodriver 0.18.0
+1594628601650	geckodriver	INFO	Listening on 127.0.0.1:54330
+1594628604729	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594628606855	Marionette	INFO	Listening on port 54338
+1594628607264	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+1594628633712	Marionette	INFO	New connections will no longer be accepted
+1594628664422	geckodriver	INFO	geckodriver 0.18.0
+1594628664428	geckodriver	INFO	Listening on 127.0.0.1:54423
+1594628667515	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594628669616	Marionette	INFO	Listening on port 54431
+1594628670048	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+1594628696482	Marionette	INFO	New connections will no longer be accepted
+1594629321529	geckodriver	INFO	geckodriver 0.18.0
+1594629321538	geckodriver	INFO	Listening on 127.0.0.1:54586
+1594629324637	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594629326810	Marionette	INFO	Listening on port 54594
+1594629327175	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594629330301	Marionette	INFO	New connections will no longer be accepted
+1594630196816	geckodriver	INFO	geckodriver 0.18.0
+1594630196825	geckodriver	INFO	Listening on 127.0.0.1:54644
+1594630199936	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594630202032	Marionette	INFO	Listening on port 54652
+1594630202465	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594630205627	Marionette	INFO	New connections will no longer be accepted
+1594630339270	geckodriver	INFO	geckodriver 0.18.0
+1594630339279	geckodriver	INFO	Listening on 127.0.0.1:54670
+1594630342367	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594630344456	Marionette	INFO	Listening on port 54678
+1594630344906	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594630348185	Marionette	INFO	New connections will no longer be accepted
+1594631476316	geckodriver	INFO	geckodriver 0.18.0
+1594631476324	geckodriver	INFO	Listening on 127.0.0.1:54802
+1594631479421	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594631481555	Marionette	INFO	Listening on port 54810
+1594631481954	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+1594631512389	Marionette	INFO	New connections will no longer be accepted
+1594633270564	geckodriver	INFO	geckodriver 0.18.0
+1594633270573	geckodriver	INFO	Listening on 127.0.0.1:55025
+1594633273654	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594633275797	Marionette	INFO	Listening on port 55033
+1594633276190	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+1594633293151	Marionette	INFO	New connections will no longer be accepted
+1594633576846	geckodriver	INFO	geckodriver 0.18.0
+1594633576853	geckodriver	INFO	Listening on 127.0.0.1:55110
+1594633579952	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594633582071	Marionette	INFO	Listening on port 55118
+1594633582498	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript warning: http://localhost/upload/js/shopping_flow.js, line 528: unreachable code after return statement
+1594633598236	Marionette	INFO	Ceased listening
+1594636501238	geckodriver	INFO	geckodriver 0.18.0
+1594636501247	geckodriver	INFO	Listening on 127.0.0.1:55346
+1594636504361	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594636506807	Marionette	INFO	Listening on port 55354
+1594636506959	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594636514300	Marionette	INFO	New connections will no longer be accepted
+1594636643354	geckodriver	INFO	geckodriver 0.18.0
+1594636643361	geckodriver	INFO	Listening on 127.0.0.1:55500
+1594636646475	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594636649100	Marionette	INFO	Listening on port 55508
+1594636649515	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594636657117	Marionette	INFO	New connections will no longer be accepted
+1594637381628	geckodriver	INFO	geckodriver 0.18.0
+1594637381640	geckodriver	INFO	Listening on 127.0.0.1:55582
+1594637384734	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594637387405	Marionette	INFO	Listening on port 55590
+1594637387767	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594637399648	Marionette	INFO	New connections will no longer be accepted
+1594637449506	geckodriver	INFO	geckodriver 0.18.0
+1594637449515	geckodriver	INFO	Listening on 127.0.0.1:55627
+1594637452633	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594637455253	Marionette	INFO	Listening on port 55635
+1594637455671	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594637467456	Marionette	INFO	New connections will no longer be accepted
+1594638930030	geckodriver	INFO	geckodriver 0.18.0
+1594638930038	geckodriver	INFO	Listening on 127.0.0.1:55792
+1594638933160	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594638935942	Marionette	INFO	Listening on port 55800
+1594638936210	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594638952709	Marionette	INFO	Ceased listening
+1594638973055	geckodriver	INFO	geckodriver 0.18.0
+1594638973066	geckodriver	INFO	Listening on 127.0.0.1:55843
+1594638976174	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594638978626	Marionette	INFO	Listening on port 55852
+1594638978785	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594638990618	Marionette	INFO	New connections will no longer be accepted
+1594639435699	geckodriver	INFO	geckodriver 0.18.0
+1594639435706	geckodriver	INFO	Listening on 127.0.0.1:55909
+1594639438829	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594639441828	Marionette	INFO	Listening on port 55917
+1594639442000	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594639467708	Marionette	INFO	Ceased listening
+1594639491849	geckodriver	INFO	geckodriver 0.18.0
+1594639491857	geckodriver	INFO	Listening on 127.0.0.1:55954
+1594639494979	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594639497526	Marionette	INFO	Listening on port 55962
+1594639498025	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594639514191	Marionette	INFO	New connections will no longer be accepted
+1594640051207	geckodriver	INFO	geckodriver 0.18.0
+1594640051215	geckodriver	INFO	Listening on 127.0.0.1:56100
+1594640054322	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594640056770	Marionette	INFO	Listening on port 56108
+1594640056922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594640077217	Marionette	INFO	New connections will no longer be accepted
+1594640624952	geckodriver	INFO	geckodriver 0.18.0
+1594640624967	geckodriver	INFO	Listening on 127.0.0.1:56202
+1594640628065	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594640630774	Marionette	INFO	Listening on port 56210
+1594640631100	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594640638758	Marionette	INFO	New connections will no longer be accepted
+1594640752654	geckodriver	INFO	geckodriver 0.18.0
+1594640752662	geckodriver	INFO	Listening on 127.0.0.1:56245
+1594640755786	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594640758559	Marionette	INFO	Listening on port 56253
+1594640758835	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594640777318	Marionette	INFO	Ceased listening
+1594640841858	geckodriver	INFO	geckodriver 0.18.0
+1594640841866	geckodriver	INFO	Listening on 127.0.0.1:56289
+1594640844976	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594640847688	Marionette	INFO	Listening on port 56297
+1594640848024	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594640863794	Marionette	INFO	Ceased listening
+1594688009189	geckodriver	INFO	geckodriver 0.18.0
+1594688009204	geckodriver	INFO	Listening on 127.0.0.1:57076
+1594688012376	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594688014382	Marionette	INFO	Listening on port 57084
+1594688014477	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594688026295	Marionette	INFO	New connections will no longer be accepted
+1594690047938	geckodriver	INFO	geckodriver 0.18.0
+1594690047958	geckodriver	INFO	Listening on 127.0.0.1:57767
+1594690051075	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594690054274	Marionette	INFO	Listening on port 57775
+1594690054623	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594690071543	Marionette	INFO	New connections will no longer be accepted
+1594691308160	geckodriver	INFO	geckodriver 0.18.0
+1594691308170	geckodriver	INFO	Listening on 127.0.0.1:57995
+1594691311283	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594691314021	Marionette	INFO	Listening on port 58003
+1594691314331	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594691321874	Marionette	INFO	New connections will no longer be accepted
+1594692775699	geckodriver	INFO	geckodriver 0.18.0
+1594692775706	geckodriver	INFO	Listening on 127.0.0.1:58160
+1594692778827	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594692781516	Marionette	INFO	Listening on port 58168
+1594692781875	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594692789677	Marionette	INFO	New connections will no longer be accepted
+1594693253560	geckodriver	INFO	geckodriver 0.18.0
+1594693253572	geckodriver	INFO	Listening on 127.0.0.1:58218
+1594693256678	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594693259472	Marionette	INFO	Listening on port 58226
+1594693259725	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594693267577	Marionette	INFO	New connections will no longer be accepted
+1594693437963	geckodriver	INFO	geckodriver 0.18.0
+1594693437972	geckodriver	INFO	Listening on 127.0.0.1:58263
+1594693441080	geckodriver::marionette	INFO	Starting browser C:\Program Files (x86)\Mozilla Firefox\firefox.exe with args ["-marionette"]
+[GFX1]: Potential driver version mismatch ignored due to missing DLLs igd10umd32 v= and igd10iumd32.dll v=0.0.0.0
+1594693443660	Marionette	INFO	Listening on port 58271
+1594693444117	Marionette	WARN	TLS certificate errors will be ignored for this session
+1594693451992	Marionette	INFO	New connections will no longer be accepted
